@@ -1,0 +1,30 @@
+body{
+  background-color: #66545e;
+  color: #eea990;
+}
+
+#center{
+  margin:25px;
+  display:flex;
+  justify-content:center;
+  
+
+}
+
+h1{
+  text-align:center;
+}
+
+button{
+  margin:5px;
+}
+
+#outline{
+  padding:10%;
+  border: 3px #f6e0b5 solid;
+}
+
+#outer{
+  border: 3px #aa6f73 solid;
+
+}
